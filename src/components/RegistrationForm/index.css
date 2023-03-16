@@ -1,0 +1,26 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.registration-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.success-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
